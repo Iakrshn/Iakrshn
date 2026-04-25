@@ -60,7 +60,7 @@ Scorecard de crédito de grado bancario sobre datos Lending Club, abordado desde
 |-------------|-----|---------|
 | Universidad de Chile | Ayudante IA Generativa & LLMs | Mar 2026 – presente |
 | Empresas SB | Analista Business Intelligence | Oct – Dic 2025 |
-| **Banco Central de Chile** | **Analista de Datos & Automatización Financiera** | **Oct 2023 – Dic 2024** |
+| **Banco Central de Chile** | **Analista de Datos & Automatización Financiera** | **Jul – Dic 2024** |
 | Banco Central de Chile | Analista de Datos Financieros (Práctica) | Oct 2023 – Abr 2024 |
 | Universidad Santo Tomás | Ayudante Finanzas & Reporte Financiero | Sep 2021 – Ago 2025 |
 
